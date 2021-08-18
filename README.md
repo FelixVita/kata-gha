@@ -1,2 +1,3 @@
 # kata-gha
-d
+
+Repo for practicing kata for basic github actions ci/cd with python

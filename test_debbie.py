@@ -8,3 +8,6 @@ def test_negativity():
 
 def test_easy():
     assert 1 == 1
+
+def test_cleverness():
+    assert make_it_negative(-3) == 3

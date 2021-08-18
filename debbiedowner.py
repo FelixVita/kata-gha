@@ -8,3 +8,6 @@ def complain_about(topic):
         return f"I hate {topic}. Totally boring."
 
 print(complain_about("tennis"))
+
+import numpy
+print(numpy.pi)
